@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ezorp
-- 👀 I’m interested in app dev and ethical hacking
-- 🌱 I’m currently learning ethical haking, python and C#
+This password cannot be used as it is already used by jhon.feizu@gmail.com
 
 <!---
 Ezorp/Ezorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
